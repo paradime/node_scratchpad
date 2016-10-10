@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "sample application",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "Bryon Wilkins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
